@@ -1,0 +1,58 @@
+body {
+    font-family:"Arial", "sans-serif";
+}
+
+
+
+nav {
+    margin-top:10px;
+    background-color:black;
+    padding: 10px;
+
+}
+
+nav a {
+    color:white;
+    font-weight:bold;
+    text-decoration: none;
+    padding-right:5px;
+    border-right: 2px solid white;
+}
+
+table{
+    width: 53%;
+    margin-top:30px;
+    border:1px solid #000000;
+    border-collapse: collapse;
+
+}
+
+td {
+    padding:15px;
+    border:1px solid #ffffff;
+}
+
+td.Aard {
+    background-color: #80b3ff;
+}
+
+
+
+td.Electra {
+    background-color: #80ff80;
+}
+
+footer {
+    font-weight:bold;
+    margin-top:350px;
+    padding: 2px;
+    background-color: #ffffff;
+    color: #000000;
+    clear: both;
+}
+
+
+
+
+
+
