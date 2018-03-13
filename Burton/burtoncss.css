@@ -1,0 +1,143 @@
+* {
+    box-sizing:border-box;
+}
+
+/*Homepage*/
+div#wrapper, footer{
+    margin: auto;
+    width: 1000px;
+    background-color: #ffeaea;
+    padding:20px
+}
+
+body {
+    font-family:'Arial', 'sans serif';
+    line-height:20px;
+}
+
+nav {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 20px;
+    
+}
+
+section.appel, section.visuals {
+    width:50%;
+    float:left;    
+}
+
+section.visuals {
+    text-align: right;
+}
+
+section.articles {
+    
+}
+
+img.appel {
+    width:502px;
+    
+}
+img.article {
+    margin-top:20px;
+    margin-bottom:20px;
+    width:303px;
+    
+   
+}
+
+img.visual {
+    
+width:450px;
+margin-bottom:13px;
+
+}
+
+article {
+    display:inline-block;
+    width:33%;
+    padding-right:10px;
+    vertical-align:top;
+    
+}
+
+article:last-child {
+    padding-right: 0px;
+}
+
+footer {
+    background-color:#9c9a9e;
+    
+    
+}
+
+footer a {
+    color:white;
+}
+
+footer p {
+    color:white;
+}
+
+/*Loginpage*/ 
+
+form ul {
+    list-style-type: none;
+    padding:0;
+}
+
+form ul li {
+    padding: 10px;
+
+}
+
+form ul li input {
+    
+
+}
+
+div.form-group {
+    width:320px;
+    padding:20px;
+}
+
+/*Registrationpage*/ 
+article.kant1 {
+    display:inline-block;
+    
+    width:40%;
+    padding-right:10px;
+    vertical-align:top;
+}
+
+input.box , select.combo {
+    float:right;
+}
+
+input.radio1 , input.radio2 {
+    
+    
+}
+
+article.kant1 {
+    display:inline-block;
+    width:40%;
+    padding-right:50px;
+    vertical-align:top;
+}
+
+article.kant2{
+    text-align: left;
+    padding-left:100px;
+}
+
+div.knop{
+    text-align: right;
+    padding-left:100px;
+}
+
+
